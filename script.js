@@ -35,6 +35,7 @@ for (let m = 1; m < 20; m++) {
     console.log(m);
 }
 
+
 let p = 1;
 while (p <= 20) {
     if (p % 3 === 0) {
